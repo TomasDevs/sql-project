@@ -1,6 +1,4 @@
-# engeto-academy-sql-project
-
-Repozitář obsahuje SQL projekt z kurzu Engeto Academy.
+# sql-project
 
 ## Zadání
 
